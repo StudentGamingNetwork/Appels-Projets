@@ -104,7 +104,7 @@ R: Toutes les mises à jour seront commentées sur votre issue. Vous recevrez de
 R: Utilisez les contacts urgents seulement pour les véritables urgences bloquantes.
 
 **Q: Puis-je modifier ma demande après soumission?**
-R: Oui, éditez votre issue et tagguez @sgn-tech pour nous prévenir des modifications.
+R: Oui, éditez votre issue et tagguez @Pôle Tech pour nous prévenir des modifications.
 
 ---
 
