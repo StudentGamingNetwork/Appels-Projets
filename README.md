@@ -87,11 +87,10 @@ Suivez scrupuleusement le modèle fourni pour garantir une traitement efficace
 ## 🆘 Contacts et support
 
 **Pour les questions techniques sur le processus:**
-- [Contact Tech 1] - [email@sgn.fr]
-- [Contact Tech 2] - [email@sgn.fr]
+- [Contact Tech 1] - [@kotsudes] - [ridge.lowao@sgnw.fr]
 
 **Pour les urgences critiques:**
-[Contact urgent] - [telephone] - [email-urgent@sgn.fr]
+[Contact urgent] - [@kotsudes] - [ridge.lowao@sgnw.fr]
 
 ## ❓ FAQ
 
